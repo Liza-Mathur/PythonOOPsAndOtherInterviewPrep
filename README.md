@@ -30,3 +30,9 @@ OOPs, File handling, Error handling, Generators, Iterators, Functions
     37. Write a generator to yield Fibonacci numbers
     38. Chain two generators using yield from
     39. Build a pipeline of generators to filter even numbers and square them
+
+9. Lambda, Map, Filter, Reduce (4 questions)
+    40. Use map() to square a list of numbers
+    41. Use filter() to get only the prime numbers from a list
+    42. Use reduce() to find the product of a list
+    43. Sort a list of dictionaries using a lambda as a key
